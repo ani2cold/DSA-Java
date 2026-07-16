@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ani2cold/DSA-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ani2cold/DSA-Java/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/ani2cold/DSA-Java/tree/master/0088-merge-sorted-array) |
 | [0303-range-sum-query-immutable](https://github.com/ani2cold/DSA-Java/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ani2cold/DSA-Java/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/ani2cold/DSA-Java/tree/master/0560-subarray-sum-equals-k) |
@@ -74,4 +75,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ani2cold/DSA-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ani2cold/DSA-Java/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/ani2cold/DSA-Java/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/ani2cold/DSA-Java/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
