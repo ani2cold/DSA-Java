@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/ani2cold/DSA-Java/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ani2cold/DSA-Java/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ani2cold/DSA-Java/tree/master/1248-count-number-of-nice-subarrays) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ani2cold/DSA-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/ani2cold/DSA-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ani2cold/DSA-Java/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ani2cold/DSA-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -70,14 +72,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ani2cold/DSA-Java/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ani2cold/DSA-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ani2cold/DSA-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ani2cold/DSA-Java/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/ani2cold/DSA-Java/tree/master/0088-merge-sorted-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ani2cold/DSA-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ani2cold/DSA-Java/tree/master/0088-merge-sorted-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ani2cold/DSA-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ani2cold/DSA-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
