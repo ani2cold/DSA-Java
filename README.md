@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/ani2cold/DSA-Java/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ani2cold/DSA-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ani2cold/DSA-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3312-sorted-gcd-pair-queries](https://github.com/ani2cold/DSA-Java/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/ani2cold/DSA-Java/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ani2cold/DSA-Java/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ani2cold/DSA-Java/tree/master/1248-count-number-of-nice-subarrays) |
+| [3312-sorted-gcd-pair-queries](https://github.com/ani2cold/DSA-Java/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ani2cold/DSA-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
@@ -53,16 +55,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ani2cold/DSA-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/ani2cold/DSA-Java/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ani2cold/DSA-Java/tree/master/1248-count-number-of-nice-subarrays) |
+| [3312-sorted-gcd-pair-queries](https://github.com/ani2cold/DSA-Java/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/ani2cold/DSA-Java/tree/master/1248-count-number-of-nice-subarrays) |
+| [3312-sorted-gcd-pair-queries](https://github.com/ani2cold/DSA-Java/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ani2cold/DSA-Java/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ani2cold/DSA-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/ani2cold/DSA-Java/tree/master/0992-subarrays-with-k-different-integers) |
+| [3312-sorted-gcd-pair-queries](https://github.com/ani2cold/DSA-Java/tree/master/3312-sorted-gcd-pair-queries) |
 ## Design
 |  |
 | ------- |
@@ -75,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/ani2cold/DSA-Java/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ani2cold/DSA-Java/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ani2cold/DSA-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -102,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ani2cold/DSA-Java/tree/master/0053-maximum-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/ani2cold/DSA-Java/tree/master/3312-sorted-gcd-pair-queries) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/ani2cold/DSA-Java/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
