@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/ani2cold/DSA-Java/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/ani2cold/DSA-Java/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/ani2cold/DSA-Java/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/ani2cold/DSA-Java/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/ani2cold/DSA-Java/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/ani2cold/DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ani2cold/DSA-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
