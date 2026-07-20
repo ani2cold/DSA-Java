@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ani2cold/DSA-Java/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/ani2cold/DSA-Java/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ani2cold/DSA-Java/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/ani2cold/DSA-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ani2cold/DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ani2cold/DSA-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ani2cold/DSA-Java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ani2cold/DSA-Java/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ani2cold/DSA-Java/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/ani2cold/DSA-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/ani2cold/DSA-Java/tree/master/0189-rotate-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ani2cold/DSA-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
