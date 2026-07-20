@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ani2cold/DSA-Java/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ani2cold/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/ani2cold/DSA-Java/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/ani2cold/DSA-Java/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ani2cold/DSA-Java/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/ani2cold/DSA-Java/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/ani2cold/DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ani2cold/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/ani2cold/DSA-Java/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/ani2cold/DSA-Java/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/ani2cold/DSA-Java/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ani2cold/DSA-Java/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/ani2cold/DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ani2cold/DSA-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ani2cold/DSA-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ani2cold/DSA-Java/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/ani2cold/DSA-Java/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/ani2cold/DSA-Java/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ani2cold/DSA-Java/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ani2cold/DSA-Java/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ani2cold/DSA-Java/tree/master/0075-sort-colors) |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ani2cold/DSA-Java/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ani2cold/DSA-Java/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ani2cold/DSA-Java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ani2cold/DSA-Java/tree/master/0088-merge-sorted-array) |
