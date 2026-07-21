@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ani2cold/DSA-Java/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ani2cold/DSA-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ani2cold/DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/ani2cold/DSA-Java/tree/master/0443-string-compression) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ani2cold/DSA-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ani2cold/DSA-Java/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Sliding Window
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ani2cold/DSA-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/ani2cold/DSA-Java/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/ani2cold/DSA-Java/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/ani2cold/DSA-Java/tree/master/0443-string-compression) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ani2cold/DSA-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
