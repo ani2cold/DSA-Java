@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ani2cold/DSA-Java/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ani2cold/DSA-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ani2cold/DSA-Java/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ani2cold/DSA-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/ani2cold/DSA-Java/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/ani2cold/DSA-Java/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ani2cold/DSA-Java/tree/master/0053-maximum-subarray) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ani2cold/DSA-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ani2cold/DSA-Java/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
 |  |
