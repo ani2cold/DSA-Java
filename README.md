@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/ani2cold/DSA-Java/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ani2cold/DSA-Java/tree/master/0304-range-sum-query-2d-immutable) |
 | [0414-third-maximum-number](https://github.com/ani2cold/DSA-Java/tree/master/0414-third-maximum-number) |
+| [0486-predict-the-winner](https://github.com/ani2cold/DSA-Java/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/ani2cold/DSA-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ani2cold/DSA-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/ani2cold/DSA-Java/tree/master/0704-binary-search) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/ani2cold/DSA-Java/tree/master/0189-rotate-array) |
+| [0486-predict-the-winner](https://github.com/ani2cold/DSA-Java/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ani2cold/DSA-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ani2cold/DSA-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ani2cold/DSA-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ani2cold/DSA-Java/tree/master/0053-maximum-subarray) |
+| [0486-predict-the-winner](https://github.com/ani2cold/DSA-Java/tree/master/0486-predict-the-winner) |
 ## Binary Search
 |  |
 | ------- |
@@ -239,4 +242,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ani2cold/DSA-Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ani2cold/DSA-Java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/ani2cold/DSA-Java/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/ani2cold/DSA-Java/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
