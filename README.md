@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ani2cold/DSA-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ani2cold/DSA-Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ani2cold/DSA-Java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ani2cold/DSA-Java/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ani2cold/DSA-Java/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ani2cold/DSA-Java/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ani2cold/DSA-Java/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ani2cold/DSA-Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ani2cold/DSA-Java/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ani2cold/DSA-Java/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ani2cold/DSA-Java/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ani2cold/DSA-Java/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ani2cold/DSA-Java/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ani2cold/DSA-Java/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ani2cold/DSA-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ani2cold/DSA-Java/tree/master/3312-sorted-gcd-pair-queries) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ani2cold/DSA-Java/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ani2cold/DSA-Java/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ani2cold/DSA-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ani2cold/DSA-Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ani2cold/DSA-Java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ani2cold/DSA-Java/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -285,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/ani2cold/DSA-Java/tree/master/3310-remove-methods-from-project) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ani2cold/DSA-Java/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
