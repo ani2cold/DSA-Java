@@ -1,49 +1,47 @@
 class Solution {
-
-    int[] suffix;
-
     public int stoneGameII(int[] piles) {
-
         int n = piles.length;
 
-        suffix = new int[n + 1];
+        int[] suffix = new int[n + 1];
 
         for (int i = n - 1; i >= 0; i--) {
-            suffix[i] = piles[i] + suffix[i + 1];
+            suffix[i] = suffix[i + 1] + piles[i];
         }
 
-        return solve(piles, 0, 1);
+        int[][] dp = new int[n][n + 1];
+
+        return solve(0, 1, piles, suffix, dp);
     }
 
-    private int solve(int[] piles, int index, int M) {
+    private int solve(int i, int M, int[] piles, int[] suffix, int[][] dp) {
+        int n = piles.length;
 
-        if (index >= piles.length) {
+        if (i >= n) {
             return 0;
         }
 
-        if (2 * M >= piles.length - index) {
-            return suffix[index];
+        if (2 * M >= n - i) {
+            return suffix[i];
+        }
+
+        if (dp[i][M] != 0) {
+            return dp[i][M];
         }
 
         int best = 0;
 
-        for (int X = 1; X <= 2 * M; X++) {
+        for (int X = 1; X <= 2 * M && i + X <= n; X++) {
+            int newM = Math.max(M, X);
 
-            int opponent = solve(
-                piles,
-                index + X,
-                Math.max(M, X)
-            );
+            int opponent = solve(i + X, newM, piles, suffix, dp);
 
-            int current = suffix[index] - opponent;
+            int currentPlayer = suffix[i] - opponent;
 
-            best = Math.max(best, current);
+            best = Math.max(best, currentPlayer);
         }
+
+        dp[i][M] = best;
 
         return best;
     }
 }
-
-// Synced seamlessly with LeetHub Pro
-// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
-// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
