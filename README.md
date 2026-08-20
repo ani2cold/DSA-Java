@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ani2cold/DSA-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ani2cold/DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/ani2cold/DSA-Java/tree/master/0443-string-compression) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ani2cold/DSA-Java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ani2cold/DSA-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ani2cold/DSA-Java/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ani2cold/DSA-Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -372,4 +373,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ani2cold/DSA-Java/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ani2cold/DSA-Java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
