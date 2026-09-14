@@ -1,16 +1,6 @@
 class Solution {
-    public boolean isRectangleOverlap(int[] rec1, int[] rec2) {
-
-        // No overlap horizontally
-        if (rec1[2] <= rec2[0] || rec2[2] <= rec1[0]) {
-            return false;
-        }
-
-        // No overlap vertically
-        if (rec1[3] <= rec2[1] || rec2[3] <= rec1[1]) {
-            return false;
-        }
-
-        return true;
+    public boolean isRectangleOverlap(int[] a, int[] b) {
+        return a[0] < b[2] && b[0] < a[2]
+            && a[1] < b[3] && b[1] < a[3];
     }
 }
