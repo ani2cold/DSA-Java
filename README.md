@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ani2cold/DSA-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/ani2cold/DSA-Java/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ani2cold/DSA-Java/tree/master/0992-subarrays-with-k-different-integers) |
+| [1096-brace-expansion-ii](https://github.com/ani2cold/DSA-Java/tree/master/1096-brace-expansion-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ani2cold/DSA-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ani2cold/DSA-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/ani2cold/DSA-Java/tree/master/1386-cinema-seat-allocation) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/ani2cold/DSA-Java/tree/master/0443-string-compression) |
 | [0940-distinct-subsequences-ii](https://github.com/ani2cold/DSA-Java/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ani2cold/DSA-Java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1096-brace-expansion-ii](https://github.com/ani2cold/DSA-Java/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ani2cold/DSA-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ani2cold/DSA-Java/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/ani2cold/DSA-Java/tree/master/1927-sum-game) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ani2cold/DSA-Java/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/ani2cold/DSA-Java/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ani2cold/DSA-Java/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/ani2cold/DSA-Java/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ani2cold/DSA-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ani2cold/DSA-Java/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ani2cold/DSA-Java/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/ani2cold/DSA-Java/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/ani2cold/DSA-Java/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ani2cold/DSA-Java/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -445,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/ani2cold/DSA-Java/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ani2cold/DSA-Java/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Pigeonhole Principle
 |  |
@@ -476,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ani2cold/DSA-Java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1096-brace-expansion-ii](https://github.com/ani2cold/DSA-Java/tree/master/1096-brace-expansion-ii) |
 ## Union-Find
 |  |
 | ------- |
