@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ani2cold/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/ani2cold/DSA-Java/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/ani2cold/DSA-Java/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/ani2cold/DSA-Java/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ani2cold/DSA-Java/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ani2cold/DSA-Java/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/ani2cold/DSA-Java/tree/master/0076-minimum-window-substring) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ani2cold/DSA-Java/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ani2cold/DSA-Java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/ani2cold/DSA-Java/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ani2cold/DSA-Java/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ani2cold/DSA-Java/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ani2cold/DSA-Java/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ani2cold/DSA-Java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ani2cold/DSA-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
