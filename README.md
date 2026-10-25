@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ani2cold/DSA-Java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1140-stone-game-ii](https://github.com/ani2cold/DSA-Java/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ani2cold/DSA-Java/tree/master/1248-count-number-of-nice-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/ani2cold/DSA-Java/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/ani2cold/DSA-Java/tree/master/1260-shift-2d-grid) |
 | [1386-cinema-seat-allocation](https://github.com/ani2cold/DSA-Java/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/ani2cold/DSA-Java/tree/master/1406-stone-game-iii) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/ani2cold/DSA-Java/tree/master/0304-range-sum-query-2d-immutable) |
 | [0835-image-overlap](https://github.com/ani2cold/DSA-Java/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/ani2cold/DSA-Java/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/ani2cold/DSA-Java/tree/master/1260-shift-2d-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ani2cold/DSA-Java/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ani2cold/DSA-Java/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/ani2cold/DSA-Java/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ani2cold/DSA-Java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/ani2cold/DSA-Java/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -504,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/ani2cold/DSA-Java/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/ani2cold/DSA-Java/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/ani2cold/DSA-Java/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/ani2cold/DSA-Java/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ani2cold/DSA-Java/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -562,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/ani2cold/DSA-Java/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ani2cold/DSA-Java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ani2cold/DSA-Java/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Tree
