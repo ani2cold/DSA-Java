@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/ani2cold/DSA-Java/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ani2cold/DSA-Java/tree/master/0304-range-sum-query-2d-immutable) |
 | [0414-third-maximum-number](https://github.com/ani2cold/DSA-Java/tree/master/0414-third-maximum-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ani2cold/DSA-Java/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/ani2cold/DSA-Java/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/ani2cold/DSA-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ani2cold/DSA-Java/tree/master/0628-maximum-product-of-three-numbers) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/ani2cold/DSA-Java/tree/master/0189-rotate-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ani2cold/DSA-Java/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/ani2cold/DSA-Java/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ani2cold/DSA-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/ani2cold/DSA-Java/tree/master/0836-rectangle-overlap) |
