@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/ani2cold/DSA-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/ani2cold/DSA-Java/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/ani2cold/DSA-Java/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/ani2cold/DSA-Java/tree/master/1267-count-servers-that-communicate) |
 | [1386-cinema-seat-allocation](https://github.com/ani2cold/DSA-Java/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/ani2cold/DSA-Java/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ani2cold/DSA-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ani2cold/DSA-Java/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/ani2cold/DSA-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ani2cold/DSA-Java/tree/master/0992-subarrays-with-k-different-integers) |
+| [1267-count-servers-that-communicate](https://github.com/ani2cold/DSA-Java/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/ani2cold/DSA-Java/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ani2cold/DSA-Java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ani2cold/DSA-Java/tree/master/3312-sorted-gcd-pair-queries) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/ani2cold/DSA-Java/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/ani2cold/DSA-Java/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/ani2cold/DSA-Java/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/ani2cold/DSA-Java/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ani2cold/DSA-Java/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ani2cold/DSA-Java/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ani2cold/DSA-Java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -534,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/ani2cold/DSA-Java/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ani2cold/DSA-Java/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ani2cold/DSA-Java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/ani2cold/DSA-Java/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ani2cold/DSA-Java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -544,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/ani2cold/DSA-Java/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/ani2cold/DSA-Java/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/ani2cold/DSA-Java/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ani2cold/DSA-Java/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/ani2cold/DSA-Java/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ani2cold/DSA-Java/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ani2cold/DSA-Java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -606,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/ani2cold/DSA-Java/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ani2cold/DSA-Java/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ani2cold/DSA-Java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ani2cold/DSA-Java/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ani2cold/DSA-Java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
